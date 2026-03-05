@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/gerald00000/LeetCode-Practice/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/gerald00000/LeetCode-Practice/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 ## Math
 |  |
@@ -25,9 +26,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/gerald00000/LeetCode-Practice/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/gerald00000/LeetCode-Practice/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 ## Simulation
 |  |
 | ------- |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/gerald00000/LeetCode-Practice/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/gerald00000/LeetCode-Practice/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 <!---LeetCode Topics End-->
