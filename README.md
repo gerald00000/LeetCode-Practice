@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/gerald00000/LeetCode-Practice/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/gerald00000/LeetCode-Practice/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
+| [1980-find-unique-binary-string](https://github.com/gerald00000/LeetCode-Practice/tree/master/1980-find-unique-binary-string) |
 ## Greedy
 |  |
 | ------- |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/gerald00000/LeetCode-Practice/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/gerald00000/LeetCode-Practice/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/gerald00000/LeetCode-Practice/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
+| [1980-find-unique-binary-string](https://github.com/gerald00000/LeetCode-Practice/tree/master/1980-find-unique-binary-string) |
 ## Math
 |  |
 | ------- |
@@ -60,4 +62,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/gerald00000/LeetCode-Practice/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
+## Hash Table
+|  |
+| ------- |
+| [1980-find-unique-binary-string](https://github.com/gerald00000/LeetCode-Practice/tree/master/1980-find-unique-binary-string) |
+## Backtracking
+|  |
+| ------- |
+| [1980-find-unique-binary-string](https://github.com/gerald00000/LeetCode-Practice/tree/master/1980-find-unique-binary-string) |
 <!---LeetCode Topics End-->
