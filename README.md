@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/gerald00000/LeetCode-Practice/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/gerald00000/LeetCode-Practice/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1980-find-unique-binary-string](https://github.com/gerald00000/LeetCode-Practice/tree/master/1980-find-unique-binary-string) |
+| [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/gerald00000/LeetCode-Practice/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/gerald00000/LeetCode-Practice/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 ## Greedy
 |  |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/gerald00000/LeetCode-Practice/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
+| [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/gerald00000/LeetCode-Practice/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 ## String
 |  |
 | ------- |
@@ -82,4 +84,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/gerald00000/LeetCode-Practice/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
+## Prefix Sum
+|  |
+| ------- |
+| [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/gerald00000/LeetCode-Practice/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 <!---LeetCode Topics End-->
